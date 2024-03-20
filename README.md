@@ -6,7 +6,7 @@ Created by: **Tahmid Hussan**
 
 ## Summary
 
-**Date Sorter** is a user friendly Java application that sorts the dates in any .txt file. It also allows users to search for any dates of a specific year.
+**Date Sorter** is a user friendly automated Java application that sorts a list of dates in any .txt file. It also allows users to search for any dates of a specific year.
 
 ## Video Demo
 
